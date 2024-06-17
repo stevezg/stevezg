@@ -1,4 +1,4 @@
-# Hi there, I'm Steve 👋
+# Hi, I'm Steve 👋
 
 Welcome to my GitHub profile! Here's a little about me...
 
