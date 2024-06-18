@@ -8,7 +8,7 @@ I'm currently working in the **legal AI** space, leveraging artificial intellige
 
 ## 🎓 Education
 
-- **University of Southern California (USC)** - B.S. in Computer Science & Business Administration - Fight on! 💯✌️
+- **University of Southern California (USC)** - B.S. in Computer Science & Business Administration - Fight on 💯✌️
 
 ## 💡 Interests
 
@@ -39,7 +39,7 @@ I'm currently working in the **legal AI** space, leveraging artificial intellige
 
 ## ⚡ Fun Fact
 
-I competed in the Junior Olympics for ski jumping!
+I competed in the Junior Olympics for ski jumping.
 
 ---
 
