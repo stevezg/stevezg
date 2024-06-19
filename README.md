@@ -34,8 +34,6 @@ I'm currently working in the **legal AI** space, leveraging artificial intellige
 
 - [Email](mailto:anderssj@usc.edu)
 - [LinkedIn](https://www.linkedin.com/in/anderson9)
-- [Twitter](https://twitter.com/swaggerhound_og)
-- [Instagram](https://instagram.com/swaggerhound_og)
 
 ## ⚡ Fun Fact
 
