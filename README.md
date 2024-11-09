@@ -4,7 +4,7 @@ Welcome to my GitHub profile! Here's a little about me...
 
 ## 🚀 About Me
 
-I'm currently working in the **legal AI** space, leveraging artificial intelligence to revolutionize the legal industry. Before diving into the world of legal tech, I had the opportunity to work in the streaming industry at **Disney+**, where I contributed to delivering magical experiences to millions of viewers.
+I'm currently working at **Starbucks** on the digital menu team, helping to create software that powers digital menu boards in over 2,500 stores. Before this, I worked on the marketing CMS at **Disney+**, contributing to delivering magical experiences to millions of viewers.
 
 ## 🎓 Education
 
@@ -12,28 +12,32 @@ I'm currently working in the **legal AI** space, leveraging artificial intellige
 
 ## 💡 Interests
 
-- **AI/Robotics**: Passionate about the future of technology and its potential to change the world.
-- **Outdoor Activities**: I love spending time outdoors, indulging in activities like:
-  - Ski Mountaineering ⛷️
-  - Whitewater Kayaking 🚣‍♂️
-  - Mountain Biking 🚵‍♂️
+- **Tech**: I'm deeply passionate about the future of technology, especially in AI, software development, and entrepreneurship.
+- **Outdoor Activities**: I love spending time outdoors, indulging in activities like
+  - Skiing ⛷️
+  - Tennis 🎾
   - Backpacking ⛰️
-- **Skiing**: Originating from Aspen, Colorado, I have a deep love for skiing.
+  - Mountain Biking 🚵‍♂️
+  - Golf ⛳
+  - Whitewater Kayaking 🌊
+- **Aviation**: I'm a licensed pilot ✈️
 
 ## 🌱 Currently
 
-- **Working On**: Generative AI solutions in the legal space, and a few other things.
-- **Learning**: Constantly exploring new advancements in technology. Especially interesteg in spatial computing, AI, Robotics.
+- **Working On**: Developing innovative digital marketing solutions for Starbucks, with a focus on enhancing the experience of digital menu boards. Always working on side projects too, like personal apps and business ideas.
+- **Learning**: Always exploring advancements in tech. Lately, I've been especially interested in spatial computing, robotics, blockchain, and keeping up with the latest in AI.
 
 ## 🛠️ Skills
 
-- **Programming Languages**: C++, Java, Typescript, Python, Rust, Go, Swift
-- **Frameworks**: React, React Native, Vue, Flask, Django, Meteor
+- **Programming Languages**: C++, Java, Typescript, Python, Swift
+- **Frameworks & Libraries**: React, React Native, Vue, Next.js, Express, GraphQL, TensorFlow, PyTorch, Tailwind CSS, FastAPI, Firebase, Supabase
+- **Design**: Figma, Sketch, Adobe XD, Photoshop, Illustrator
 
 ## 📫 How to Reach Me
 
 - [Email](mailto:anderssj@usc.edu)
 - [LinkedIn](https://www.linkedin.com/in/anderson9)
+- [Portfolio](https://www.stephen-james-anderson.com)
 
 ## ⚡ Fun Fact
 
@@ -41,4 +45,4 @@ I competed in the Junior Olympics for ski jumping.
 
 ---
 
-Thank you for visiting my profile. Please get in touch if you'd like to collaborate!
+Thanks for stopping by! Feel free to reach out if you'd like to collaborate or just talk tech, outdoor adventures, or anything else that piques your interest!
