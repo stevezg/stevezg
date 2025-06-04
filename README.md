@@ -4,7 +4,7 @@ Welcome to my GitHub profile! Here's a little about me...
 
 ## 🚀 About Me
 
-I'm currently working at **Starbucks** on the digital menu team, helping to create software that powers digital menu boards in over 2,500 stores. Before this, I worked on the marketing CMS at **Disney+**, contributing to delivering magical experiences to millions of viewers.
+I'm currently working at **Starbucks** on the digital menu team, helping to create software that powers digital menu's . Before this, I worked on the marketing CMS at **Disney+**, creating Marketing Landing Pages (MLP's)
 
 ## 🎓 Education
 
@@ -22,11 +22,6 @@ I'm currently working at **Starbucks** on the digital menu team, helping to crea
   - Whitewater Kayaking 🌊
 - **Aviation**: I'm a licensed pilot ✈️
 
-## 🌱 Currently
-
-- **Working On**: Developing innovative digital marketing solutions for Starbucks, with a focus on enhancing the experience of digital menu boards. Always working on side projects too, like personal apps and business ideas.
-- **Learning**: Always exploring advancements in tech. Lately, I've been especially interested in spatial computing, robotics, blockchain, and keeping up with the latest in AI.
-
 ## 🛠️ Skills
 
 - **Programming Languages**: C++, Java, Typescript, Python, Swift
@@ -43,6 +38,4 @@ I'm currently working at **Starbucks** on the digital menu team, helping to crea
 
 I competed in the Junior Olympics for ski jumping.
 
----
 
-Thanks for stopping by! Feel free to reach out if you'd like to collaborate or just talk tech, outdoor adventures, or anything else that piques your interest!
