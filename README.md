@@ -16,11 +16,11 @@ I'm currently working at **Starbucks** on the digital menu team, helping to crea
 - **Outdoor Activities**: I love spending time outdoors, indulging in activities like
   - Skiing ⛷️
   - Tennis 🎾
-  - Backpacking ⛰️
+  - Camping/Backpacking ⛰️
   - Mountain Biking 🚵‍♂️
   - Golf ⛳
   - Whitewater Kayaking 🌊
-- **Aviation**: I'm a licensed pilot ✈️
+- **Aviation**: ✈️
 
 ## 🛠️ Skills
 
